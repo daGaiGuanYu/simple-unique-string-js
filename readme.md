@@ -5,7 +5,7 @@
 npm install simple-unique-string
 ```
 
-## startup
+## getting started
 ``` javascript
 const getUniqueString = require('simple-unique-string')
 
